@@ -1,0 +1,249 @@
+[submodule "rubygems"]
+	path = rubygems
+	url = https://github.com/rubygems/rubygems
+[submodule "aws-sdk-ruby"]
+	path = aws-sdk-ruby
+	url = https://github.com/aws/aws-sdk-ruby
+[submodule "jmespath.rb"]
+	path = jmespath.rb
+	url = https://github.com/trevorrowe/jmespath.rb
+[submodule "i18n"]
+	path = i18n
+	url = https://github.com/ruby-i18n/i18n
+[submodule "rails"]
+	path = rails
+	url = https://github.com/rails/rails
+[submodule "rack"]
+	path = rack
+	url = https://github.com/rack/rack
+[submodule "rake"]
+	path = rake
+	url = https://github.com/ruby/rake
+[submodule "tzinfo"]
+	path = tzinfo
+	url = https://github.com/tzinfo/tzinfo
+[submodule "concurrent-ruby"]
+	path = concurrent-ruby
+	url = https://github.com/ruby-concurrency/concurrent-ruby
+[submodule "diff-lcs"]
+	path = diff-lcs
+	url = https://github.com/halostatue/diff-lcs
+[submodule "json"]
+	path = json
+	url = https://github.com/ruby/json
+[submodule "rspec-expectations"]
+	path = rspec-expectations
+	url = https://github.com/rspec/rspec-expectations
+[submodule "rspec-core"]
+	path = rspec-core
+	url = https://github.com/rspec/rspec-core
+[submodule "rspec"]
+	path = rspec
+	url = https://github.com/rspec/rspec
+[submodule "minitest"]
+	path = minitest
+	url = https://github.com/minitest/minitest
+[submodule "nokogiri"]
+	path = nokogiri
+	url = https://github.com/sparklemotion/nokogiri
+[submodule "faraday"]
+	path = faraday
+	url = https://github.com/lostisland/faraday
+[submodule "addressable"]
+	path = addressable
+	url = https://github.com/sporkmonger/addressable
+[submodule "multi_json"]
+	path = multi_json
+	url = https://github.com/intridea/multi_json
+[submodule "thor"]
+	path = thor
+	url = https://github.com/rails/thor
+[submodule "publicsuffix-ruby"]
+	path = publicsuffix-ruby
+	url = https://github.com/weppos/publicsuffix-ruby
+[submodule "rspec-metagem"]
+	path = rspec-metagem
+	url = https://github.com/rspec/rspec-metagem
+[submodule "ffi"]
+	path = ffi
+	url = https://github.com/ffi/ffi/
+[submodule "ruby-mime-types"]
+	path = ruby-mime-types
+	url = https://github.com/mime-types/ruby-mime-types/
+[submodule "multipart-post"]
+	path = multipart-post
+	url = https://github.com/socketry/multipart-post.git
+[submodule "builder"]
+	path = builder
+	url = https://github.com/rails/builder
+[submodule "unicode-display_width"]
+	path = unicode-display_width
+	url = https://github.com/janlelis/unicode-display_width
+[submodule "rack-test"]
+	path = rack-test
+	url = https://github.com/rack/rack-test
+[submodule "mini_mime"]
+	path = mini_mime
+	url = https://github.com/discourse/mini_mime
+[submodule "tilt"]
+	path = tilt
+	url = https://github.com/jeremyevans/tilt
+[submodule "method_source"]
+	path = method_source
+	url = https://github.com/banister/method_source
+[submodule "ruby-jwt"]
+	path = ruby-jwt
+	url = https://github.com/jwt/ruby-jwt
+[submodule "mail"]
+	path = mail
+	url = https://github.com/mikel/mail/
+[submodule "mime-types-data"]
+	path = mime-types-data
+	url = https://github.com/mime-types/mime-types-data/
+[submodule "parser"]
+	path = parser
+	url = https://github.com/whitequark/parser
+[submodule "rubyzip"]
+	path = rubyzip
+	url = https://github.com/rubyzip/rubyzip
+[submodule "parallel"]
+	path = parallel
+	url = https://github.com/grosser/parallel
+[submodule "loofah"]
+	path = loofah
+	url = https://github.com/flavorjones/loofah
+[submodule "excon"]
+	path = excon
+	url = https://github.com/excon/excon
+[submodule "thread_safe"]
+	path = thread_safe
+	url = https://github.com/ruby-concurrency/thread_safe
+[submodule "ast"]
+	path = ast
+	url = https://github.com/whitequark/ast
+[submodule "rexml"]
+	path = rexml
+	url = https://github.com/ruby/rexml
+[submodule "ruby-progressbar"]
+	path = ruby-progressbar
+	url = https://github.com/jfelchner/ruby-progressbar
+[submodule "rainbow"]
+	path = rainbow
+	url = https://github.com/sickill/rainbow
+[submodule "rails-html-sanitizer"]
+	path = rails-html-sanitizer
+	url = https://github.com/rails/rails-html-sanitizer
+[submodule "rubocop"]
+	path = rubocop
+	url = https://github.com/rubocop/rubocop/
+[submodule "mini_portile"]
+	path = mini_portile
+	url = https://github.com/flavorjones/mini_portile
+[submodule "rails-dom-testing"]
+	path = rails-dom-testing
+	url = https://github.com/rails/rails-dom-testing
+[submodule "http-cookie"]
+	path = http-cookie
+	url = https://github.com/sparklemotion/http-cookie
+[submodule "coderay"]
+	path = coderay
+	url = https://github.com/rubychan/coderay
+[submodule "ruby-domain_name"]
+	path = ruby-domain_name
+	url = https://github.com/knu/ruby-domain_name
+[submodule "sprockets"]
+	path = sprockets
+	url = https://github.com/rails/sprockets
+[submodule "pry"]
+	path = pry
+	url = https://github.com/pry/pry
+[submodule "nio4r"]
+	path = nio4r
+	url = https://github.com/socketry/nio4r.git
+[submodule "globalid"]
+	path = globalid
+	url = https://github.com/rails/globalid
+[submodule "ruby-unf_ext"]
+	path = ruby-unf_ext
+	url = https://github.com/knu/ruby-unf_ext
+[submodule "zeitwerk"]
+	path = zeitwerk
+	url = https://github.com/fxn/zeitwerk
+[submodule "racc"]
+	path = racc
+	url = https://github.com/ruby/racc
+[submodule "faraday-net_http"]
+	path = faraday-net_http
+	url = https://github.com/lostisland/faraday-net_http
+[submodule "websocket-driver-ruby"]
+	path = websocket-driver-ruby
+	url = https://github.com/faye/websocket-driver-ruby
+[submodule "redis-rb"]
+	path = redis-rb
+	url = https://github.com/redis/redis-rb
+[submodule "sprockets-rails"]
+	path = sprockets-rails
+	url = https://github.com/rails/sprockets-rails
+[submodule "erubi"]
+	path = erubi
+	url = https://github.com/jeremyevans/erubi
+[submodule "crass"]
+	path = crass
+	url = https://github.com/rgrove/crass
+[submodule "connection_pool"]
+	path = connection_pool
+	url = https://github.com/mperham/connection_pool
+[submodule "regexp_parser"]
+	path = regexp_parser
+	url = https://github.com/ammar/regexp_parser
+[submodule "ruby-unf"]
+	path = ruby-unf
+	url = https://github.com/knu/ruby-unf
+[submodule "multi_xml"]
+	path = multi_xml
+	url = https://github.com/sferik/multi_xml
+[submodule "websocket-extensions-ruby"]
+	path = websocket-extensions-ruby
+	url = https://github.com/faye/websocket-extensions-ruby
+[submodule "puma"]
+	path = puma
+	url = https://github.com/puma/puma
+[submodule "netrc"]
+	path = netrc
+	url = https://github.com/geemus/netrc
+[submodule "sinatra"]
+	path = sinatra
+	url = https://github.com/sinatra/sinatra
+[submodule "rb-fsevent"]
+	path = rb-fsevent
+	url = https://github.com/thibaudgg/rb-fsevent
+[submodule "httpclient"]
+	path = httpclient
+	url = https://github.com/nahi/httpclient
+[submodule "dotenv"]
+	path = dotenv
+	url = https://github.com/bkeepers/dotenv
+[submodule "rest-client"]
+	path = rest-client
+	url = https://github.com/rest-client/rest-client
+[submodule "rb-inotify"]
+	path = rb-inotify
+	url = https://github.com/guard/rb-inotify
+[submodule "byebug"]
+	path = byebug
+	url = https://github.com/deivid-rodriguez/byebug
+[submodule "docile"]
+	path = docile
+	url = https://github.com/ms-ati/docile
+[submodule "simplecov"]
+	path = simplecov
+	url = https://github.com/simplecov-ruby/simplecov
+[submodule "google-auth-library-ruby"]
+	path = google-auth-library-ruby
+	url = https://github.com/googleapis/google-auth-library-ruby
+[submodule "msgpack-ruby"]
+	path = msgpack-ruby
+	url = https://github.com/msgpack/msgpack-ruby
+[submodule "hashie"]
+	path = hashie
+	url = https://github.com/hashie/hashie
